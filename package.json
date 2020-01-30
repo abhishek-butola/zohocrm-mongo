@@ -1,0 +1,51 @@
+{
+  "_from": "zcrmsdk",
+  "_id": "zcrmsdk@0.0.15",
+  "_inBundle": false,
+  "_integrity": "sha512-YnzpdSqiPHYQgM/zm4yhMW28ThLxIfTHskjzMW7n2A/Tnt/1T6od7P5DKEe5q39C92/OABB1WRYo6NkWcgn5Ng==",
+  "_location": "/zcrmsdk",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "zcrmsdk",
+    "name": "zcrmsdk",
+    "escapedName": "zcrmsdk",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/zcrmsdk/-/zcrmsdk-0.0.15.tgz",
+  "_shasum": "f295f4a95d5976336e308f365a89e2005f52d70a",
+  "_spec": "zcrmsdk",
+  "_where": "C:\\Users\\Javier\\Desktop\\node_express_angular_oauth_zoho_sync\\server",
+  "author": {
+    "name": "Zoho CRM API Team",
+    "url": "support@zohocrm.com"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "mysql": "^2.15.0",
+    "mongoose": "^5.7.8",
+    "properties-reader": "0.0.16",
+    "querystring": "^0.2.0",
+    "request": "^2.81.0"
+  },
+  "deprecated": false,
+  "description": "Node SDK for Zoho CRM",
+  "keywords": [
+    "Node",
+    "Zoho",
+    "CRM",
+    "OAuth2",
+    "API"
+  ],
+  "main": "lib/js/ZCRMRestClient",
+  "name": "zcrmsdk",
+  "version": "0.0.15"
+}
